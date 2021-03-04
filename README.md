@@ -38,8 +38,7 @@ Total: 138,59 TL
 
 It was used four 330 Ω resistor, 4 digit SSD (Seven Segment Display), 4x4 Keypad, bunch of M-M Jumpers and STM32G031K8 microprocessor in this project.
 
-### Detailed Task List
-
+### Detailed Task List:
 Task 1) Turn on the SSD’s first digit. ✓
 Task 2) Write all of the numbers on the first digit from 4x4 Keypad one by one. ✓
 Task 3) Shift numbers sideways between digits. ✓
