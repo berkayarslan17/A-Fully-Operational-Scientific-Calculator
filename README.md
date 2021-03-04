@@ -39,32 +39,33 @@ Total: 138,59 TL
 It was used four 330 Ω resistor, 4 digit SSD (Seven Segment Display), 4x4 Keypad, bunch of M-M Jumpers and STM32G031K8 microprocessor in this project.
 
 ### Detailed Task List:
-Task 1) Turn on the SSD’s first digit. ✓
+Task 1. Turn on the SSD’s first digit. ✓
 
-Task 2) Write all of the numbers on the first digit from 4x4 Keypad one by one. ✓
+Task 2. Write all of the numbers on the first digit from 4x4 Keypad one by one. ✓
 
-Task 3) Shift numbers sideways between digits. ✓
+Task 3. Shift numbers sideways between digits. ✓
 
-Task 4) Write a 4 digit number on the screen. ✓
-Task 5) If the digits are already full, new number key presses should be ignored. ✓
+Task 4. Write a 4 digit number on the screen. ✓
 
-Task 6) Add and subtract two number on the screen. ✓
+Task 5. If the digits are already full, new number key presses should be ignored. ✓
 
-Task 7) Calcutate a bunch of numbers in the same equation. ✓ 
+Task 6. Add and subtract two number on the screen. ✓
 
-Task 8) Write a negative number on the screen. ✓
+Task 7. Calcutate a bunch of numbers in the same equation. ✓ 
 
-Task 9) Add multiplication and division functions to the calculator. ✓ 
+Task 8. Write a negative number on the screen. ✓
 
-Task 10) Add Floating Number System to the calculator. ✓ 
+Task 9. Add multiplication and division functions to the calculator. ✓ 
 
-Task 11) Add Scientific and Trigonometric modes to the calculator. ✓
+Task 10. Add Floating Number System to the calculator. ✓ 
 
-Task 12) Add Overflow (ouFL) and Invalid (InV) statements to the display function. ✓ 
+Task 11. Add Scientific and Trigonometric modes to the calculator. ✓
 
-Task 13) When the calculator is instantiated, run the IDLE state. ✓
+Task 12. Add Overflow (ouFL) and Invalid (InV) statements to the display function. ✓ 
 
-Task 14) If no keypad button is pressed for 10 seconds, Set all the variables to zero and run the IDLE state. ✓
+Task 13. When the calculator is instantiated, run the IDLE state. ✓
+
+Task 14. If no keypad button is pressed for 10 seconds, Set all the variables to zero and run the IDLE state. ✓
 
 ### How The Algorithm Works?
 
