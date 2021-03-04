@@ -3,11 +3,11 @@ The aim of this project is to design a fully operational scientific calculator w
 
 ### Schematic Diagram
 
-![resim](https://user-images.githubusercontent.com/44584158/110012309-75505300-7d31-11eb-91fb-ab1edb81677b.png)
+![resim](https://user-images.githubusercontent.com/44584158/110014813-48516f80-7d34-11eb-9062-3f386ddac388.png)
 
 ### Block Diagram
 
-![resim](https://user-images.githubusercontent.com/44584158/110012350-800ae800-7d31-11eb-8087-fb48bec9cfe1.png)
+![resim](https://user-images.githubusercontent.com/44584158/110014777-3cfe4400-7d34-11eb-96ab-2219768c8ae1.png)
 
 ### Flow Chart
 
