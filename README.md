@@ -21,7 +21,7 @@ The aim of this project is to design a fully operational scientific calculator w
 
 #### EXTI Interrupt Handler Flowchart of the Project
 
-![resim](https://user-images.githubusercontent.com/44584158/110012520-a761b500-7d31-11eb-8ed0-f2b6e6131c14.png)
+![resim](https://user-images.githubusercontent.com/44584158/110013488-bd23aa00-7d32-11eb-9b4d-1bfc091a65a4.png)
 
 ### Parts List (w/ prices)
 
