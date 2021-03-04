@@ -1,4 +1,7 @@
 # A-Fully-Operational-Scientific-Calculator
+
+Video Link: https://www.youtube.com/watch?v=BTBhEq8jIgk&feature=youtu.be
+
 The aim of this project is to design a fully operational scientific calculator which contains addition, subtraction, multiplication, division, scientific and trigonometric modes, negative and floating number systems, overflow and invalid statements and it will be created by using Embedded C. In order to setup the calculator, 4 digit seven segment display, 4x4 keypad and stm32g031k8 microprocessor will be used in this project.  
 
 ### Schematic Diagram
