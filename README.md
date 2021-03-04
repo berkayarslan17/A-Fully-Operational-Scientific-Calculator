@@ -17,11 +17,11 @@ The aim of this project is to design a fully operational scientific calculator w
 
 #### TIMER Handler Flowchart of the Project
 
-![resim](https://user-images.githubusercontent.com/44584158/110012500-a0d33d80-7d31-11eb-981a-038437e1ef43.png)
+![resim](https://user-images.githubusercontent.com/44584158/110014287-acbfff00-7d33-11eb-9239-5f3fddeaaa7c.png)
 
 #### EXTI Interrupt Handler Flowchart of the Project
 
-![resim](https://user-images.githubusercontent.com/44584158/110013488-bd23aa00-7d32-11eb-9b4d-1bfc091a65a4.png)
+![resim](https://user-images.githubusercontent.com/44584158/110014233-9ade5c00-7d33-11eb-997f-dd952231bc65.png)
 
 ### Parts List (w/ prices)
 
