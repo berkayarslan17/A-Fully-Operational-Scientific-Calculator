@@ -5,6 +5,7 @@
  *      Author: Berkay Arslan / 171024030
  */
 
+
 #include "stm32g0xx.h"
 #include "ssdfunctions.h"
 #include "keypadfunctions.h"
